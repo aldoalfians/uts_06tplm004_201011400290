@@ -1,16 +1,9 @@
 # uts_06tplm004_201011400290
 
-A new Flutter project.
+<h3>UTS Mobile Programming</h3>
 
-## Getting Started
+<p>Nama  : Aldo Alfiansyah</p>
+<p>NIM   : 201011400290</p>
+<p>Kelas : 06TPLM004</p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![uts2023](https://github.com/aldoalfians/uts_06tplm004_201011400290/assets/57839249/192973f3-c6a0-46c5-87c5-7162efb0244e)
